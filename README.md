@@ -1,6 +1,6 @@
 # UtilityAI
 
-A flexible and powerful Utility AI decision-making system for Unreal Engine. This plugin enables AI agents to make intelligent decisions based on weighted considerations and task scoring.
+A flexible and powerful Utility AI decision-making system for Unreal Engine. This plugin enables NPCs to make intelligent decisions based on weighted considerations and task scoring.
 
 ## Overview
 
@@ -236,12 +236,6 @@ The component includes debug logging:
 ## License
 
 Created by Gavin Tsakponu
-
-## Support
-
-For issues, questions, or contributions, please check the repository or contact the author.
-
----
 
 **Version:** 1.0  
 **Unreal Engine Compatibility:** 5.x  
